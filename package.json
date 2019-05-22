@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-actions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel plugin to generate traceable type for the-actions.",
   "main": "index.js",
   "repository": "https://github.com/fightingcat/babel-plugin-actions.git",
